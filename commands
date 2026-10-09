@@ -1,0 +1,9 @@
+git init
+git branch  -m  main
+git remote add origin [link]
+git add
+git commit
+git push
+git pull
+git checkout branch
+git checkout -b name
